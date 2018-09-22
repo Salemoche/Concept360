@@ -1,0 +1,121 @@
+# Translation of Plugins - Enable Media Replace - Development (trunk) in Ukrainian
+# This file is distributed under the same license as the Plugins - Enable Media Replace - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-06-08 09:39:07+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: uk_UA\n"
+"Project-Id-Version: Plugins - Enable Media Replace - Development (trunk)\n"
+
+#. Author URI of the plugin/theme
+msgid "http://www.mansjonasson.se"
+msgstr "http://www.mansjonasson.se"
+
+#. Author of the plugin/theme
+msgid "Måns Jonasson"
+msgstr "Måns Jonasson"
+
+#. Description of the plugin/theme
+msgid "Enable replacing media files by uploading a new file in the \"Edit Media\" section of the WordPress Media Library."
+msgstr "Увімкніть заміну мультимедійних файлів, завантажте новий файл у розділ \"Редагувати медіа\" в бібліотеці медіаданих WordPress."
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.mansjonasson.se/enable-media-replace"
+msgstr "http://www.mansjonasson.se/enable-media-replace"
+
+#. Plugin Name of the plugin/theme
+msgid "Enable Media Replace"
+msgstr "Enable Media Replace"
+
+#: upload.php:84
+msgid "File type does not meet security guidelines. Try another."
+msgstr "Тип файлу не відповідає правилам безпеки. Спробуйте інший."
+
+#: upload.php:26
+msgid "The file %1$s can not be deleted by the web server, most likely because the permissions on the file are wrong."
+msgstr "Веб-сервер не може видалити файл %1$s, швидше за все тому, що права на файл невірні."
+
+#: popup.php:68
+msgid "Cancel"
+msgstr "Скасувати"
+
+#: popup.php:68
+msgid "Upload"
+msgstr "Завантажити"
+
+#: popup.php:63
+msgid "Please note that if you upload a new image, only embeds/links of the original size image will be replaced in your posts."
+msgstr "Зверніть увагу: якщо ви завантажуєте нове зображення, у ваших записах буде замінено лише вставки/посилання з зображенням оригінального розміру."
+
+#: popup.php:62
+msgid ") will be updated to point to the new file name."
+msgstr ") буде оновлено, щоб вказати на нове ім'я файлу."
+
+#: popup.php:62
+msgid "Note: If you check this option, the name and type of the file you are about to upload will replace the old file. All links pointing to the current file ("
+msgstr "Примітка: Якщо ви позначите цей параметр, ім'я та тип файлу, який ви збираєтеся завантажити, замінять старий файл. Усі посилання, що вказують на поточний файл ("
+
+#: popup.php:61
+msgid "Replace the file, use new file name and update all links"
+msgstr "Замініть файл, використовуйте нове ім'я файлу та оновлюйте всі посилання"
+
+#: popup.php:58
+msgid ") no matter what the file you upload is called."
+msgstr ") немає значення як називається файл який ви завантажуєте."
+
+#: popup.php:58
+msgid ") as the one you are replacing. The name of the attachment will stay the same ("
+msgstr ") як і той, що ви замінюєте. Назва вкладення залишиться незмінною ("
+
+#: popup.php:58
+msgid "Note: This option requires you to upload a file of the same type ("
+msgstr "Примітка: Ця опція вимагає завантаження файлу такого ж типу ("
+
+#: popup.php:57
+msgid "Just replace the file"
+msgstr "Просто замініть файл"
+
+#: popup.php:55
+msgid "Select media replacement type:"
+msgstr "Виберіть тип заміни мультимедіа:"
+
+#: popup.php:48
+msgid "Choose a file to upload from your computer"
+msgstr "Виберіть файл для завантаження з вашого комп'ютера"
+
+#: popup.php:46
+msgid "There is no undo. Think about it!"
+msgstr "Немає скасування. Подумай над цим!"
+
+#: popup.php:46
+msgid "NOTE: You are about to replace the media file"
+msgstr "ПРИМІТКА: Ви збираєтесь замінити мультимедійний файл"
+
+#: popup.php:30
+msgid "Replace Media Upload"
+msgstr "Замініть завантаження мультимедіа"
+
+#: popup.php:14 upload.php:3
+msgid "You do not have permission to upload files."
+msgstr "Ви не маєте дозволу на завантаження файлів."
+
+#: enable-media-replace.php:148
+msgid "Revised"
+msgstr "Перевірений"
+
+#: enable-media-replace.php:66
+msgid "To replace the current file, click the link and upload a replacement."
+msgstr "Щоб замінити поточний файл, натисніть посилання та завантажте заміну."
+
+#: enable-media-replace.php:66
+msgid "Upload a new file"
+msgstr "Завантажити новий файл"
+
+#: enable-media-replace.php:40 enable-media-replace.php:66
+#: enable-media-replace.php:107
+msgid "Replace media"
+msgstr "Replace media"

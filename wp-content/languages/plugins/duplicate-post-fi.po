@@ -1,0 +1,307 @@
+# Translation of Plugins - Duplicate Post - Stable (latest release) in Finnish
+# This file is distributed under the same license as the Plugins - Duplicate Post - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-08-04 09:35:43+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: fi\n"
+"Project-Id-Version: Plugins - Duplicate Post - Stable (latest release)\n"
+
+#. Plugin URI of the plugin/theme
+msgid "https://duplicate-post.lopo.it/"
+msgstr "https://duplicate-post.lopo.it/"
+
+#: duplicate-post-options.php:235
+msgid "you probably want this unchecked, unless you have very special requirements"
+msgstr "et välttämättä halua valita tätä, ellei sinulla ole hyvin erityisiä vaatimuksia"
+
+#: duplicate-post-admin.php:653 duplicate-post-options.php:91
+msgid "Documentation"
+msgstr "Dokumentaatio"
+
+#: duplicate-post-admin.php:196
+msgid "Help me develop the plugin and provide support by <a href=\"%s\">donating even a small sum</a>."
+msgstr "Auta minua kehittämään lisäosaa ja tukemaan sitä <a href=\"%s\">lahjoittamalla edes pieni summa</a>."
+
+#: duplicate-post-admin.php:195
+msgid "Duplicate Post is now also compatible with WPML!"
+msgstr "Duplicate Post on nyt yhteensopiva WPML:n kanssa!"
+
+#: duplicate-post-admin.php:194
+msgid "Check out the new documentation for Duplicate Post!"
+msgstr "Katso uusi dokumentaatio lisäosalle Duplicate Post!"
+
+#: duplicate-post-options.php:378
+msgid "Show update notice"
+msgstr "Näytä ilmoitus päivityksestä"
+
+#: duplicate-post-options.php:367
+msgid "Bulk Actions"
+msgstr "Massatoiminnot"
+
+#: duplicate-post-options.php:285
+msgid "You can use * to match zero or more alphanumeric characters or underscores: e.g. field*"
+msgstr "Voit käyttää * merkitsemään mitä tahansa määrää alfanumeerisia (alphanumeric) merkkejä tai alaviivoja: esim. field*"
+
+#: duplicate-post-options.php:244
+msgid "Menu order"
+msgstr "Järjestys"
+
+#: duplicate-post-options.php:229
+msgid "Author"
+msgstr "Kirjoittaja"
+
+#: duplicate-post-options.php:226
+msgctxt "post format"
+msgid "Format"
+msgstr "Artikkelimuodot"
+
+#: duplicate-post-options.php:223
+msgid "Template"
+msgstr "Sivupohja"
+
+#: duplicate-post-options.php:220
+msgid "Featured Image"
+msgstr "Artikkelikuva"
+
+#: duplicate-post-options.php:93
+msgid "Support Forum"
+msgstr "Tukifoorumi"
+
+#: duplicate-post-options.php:87
+msgid "Donate whatever sum you choose, even just 10¢."
+msgstr "Lahjoita mikä tahansa haluamasi summa, vaikka 10¢."
+
+#: duplicate-post-options.php:85
+msgid "Help me develop the plugin, add new features and improve support!"
+msgstr "Auta minua kehittämään lisäosaa, lisäämään ominaisuuksia ja parantamaan käyttötukea!"
+
+#: duplicate-post-admin.php:664
+msgid "%s item copied."
+msgid_plural "%s items copied."
+msgstr[0] "%s kohde kopioitu."
+msgstr[1] "%s kohdetta kopioitu."
+
+#: duplicate-post-options.php:373
+msgid "You can also use the template tag duplicate_post_clone_post_link( $link, $before, $after, $id ). More info <a href=\"%s\">here</a>"
+msgstr "Voit käyttää myös \"template tagia\" duplicate_post_clone_post_link( $link, $before, $after, $id ). Lisätietoja<a href=\"%s\">lisäosan sivuilta</a> (Wordpress.org)"
+
+#: duplicate-post-options.php:346 duplicate-post-options.php:372
+msgid "Whether the links are displayed for custom post types registered by themes or plugins depends on their use of standard WordPress UI elements"
+msgstr "Riippuu sisältötyyppien toteutustavasta ovatko tämän lisäosan toiminnot näkyvillä"
+
+#: duplicate-post-options.php:345
+msgid "Select the post types you want the plugin to be enabled"
+msgstr "Valitse ne dokumenttityypit, joille haluat tämän lisäosan käyttöön"
+
+#: duplicate-post-options.php:336
+msgid "Enable for these post types"
+msgstr "Aktivoi näille dokumenttityypeille"
+
+#: duplicate-post-options.php:330
+msgid "Passwords and contents of password-protected posts may become visible to undesired users and visitors"
+msgstr "Salasanat ja salasanasuojattu sisältö saattaa tulla näkyville sivulla vieraileville käyttäjille, jotka eivät aikaisemmin nähneet kyseistä sisältöä."
+
+#: duplicate-post-options.php:292
+msgid "Show/hide private taxonomies"
+msgstr "Näytä/piilota taksonomiat"
+
+#: duplicate-post-options.php:274
+msgid "Add this number to the original menu order (blank or zero to retain the value)"
+msgstr "Lisää tämä numero alkuperäiseen järjestykseen (tyhjä tai nolla jos käytetään samaa arvoa)"
+
+#: duplicate-post-options.php:269
+msgid "Increase menu order by"
+msgstr "Nosta järjestysnumeroa määrällä"
+
+#: duplicate-post-options.php:241
+msgid "except pingbacks and trackbacks"
+msgstr "ei linkki-ilmoituksia ja paluuviitteita (pingbacks and trackbacks)"
+
+#: duplicate-post-options.php:241
+msgid "Comments"
+msgstr "Kommentit"
+
+#: duplicate-post-options.php:238
+msgid "Children"
+msgstr "Alatasot"
+
+#: duplicate-post-options.php:235
+msgid "Attachments"
+msgstr "Liitteet"
+
+#: duplicate-post-options.php:232
+msgid "Password"
+msgstr "Salasana"
+
+#: duplicate-post-options.php:217
+msgid "Content"
+msgstr "Sisältö"
+
+#: duplicate-post-options.php:214
+msgid "Excerpt"
+msgstr "Ote"
+
+#: duplicate-post-options.php:211
+msgid "Slug"
+msgstr "Polkutunnus"
+
+#: duplicate-post-options.php:208
+msgid "Status"
+msgstr "Tila"
+
+#: duplicate-post-options.php:205
+msgid "Date"
+msgstr "Päiväys"
+
+#: duplicate-post-options.php:202
+msgid "Title"
+msgstr "Otsikko"
+
+#: duplicate-post-options.php:198
+msgid "Post/page elements to copy"
+msgstr "Artikkelin/Sivun kopioitavaksi tarkoitetut elementit"
+
+#: duplicate-post-options.php:190
+msgid "Display"
+msgstr "Näytä"
+
+#: duplicate-post-options.php:188
+msgid "Permissions"
+msgstr "Oikeudet"
+
+#: duplicate-post-options.php:186
+msgid "What to copy"
+msgstr "Mitä kopioidaan"
+
+#: duplicate-post-admin.php:555
+msgid "Untitled"
+msgstr "Nimetön"
+
+#: duplicate-post-admin.php:536
+msgid "Copy features for this post type are not enabled in options page"
+msgstr "Kopiointitoiminnallisuudet tälle dokumenttityypille ovat pois päältä Asetukset-sivulla"
+
+#: duplicate-post-admin.php:199
+msgid "Dismiss this notice."
+msgstr "Hylkää tämä ilmoitus."
+
+#. Author of the plugin/theme
+msgid "Enrico Battocchi"
+msgstr "Enrico Battocchi"
+
+#. Description of the plugin/theme
+msgid "Clone posts and pages."
+msgstr "Kopioi artikkeleita ja sivuja."
+
+#: duplicate-post.php:49
+msgid "Settings"
+msgstr "Asetukset"
+
+#: duplicate-post-options.php:388
+msgid "Save Changes"
+msgstr "Tallenna muutokset"
+
+#: duplicate-post-options.php:363
+msgid "Admin bar"
+msgstr "Ylläpitovalikko"
+
+#: duplicate-post-options.php:361
+msgid "Edit screen"
+msgstr "Muokkausnäkymä"
+
+#: duplicate-post-options.php:359
+msgid "Post list"
+msgstr "Artikkelilista"
+
+#: duplicate-post-options.php:355
+msgid "Show links in"
+msgstr "Näytä kopio- /klooni-linkit"
+
+#: duplicate-post-options.php:329
+msgid "Warning: users will be able to copy all posts, even those of other users"
+msgstr "Varoitus: käyttäjät voivat kopioida kaikki artikkelit, myös toisten käyttäjien tekemiä"
+
+#: duplicate-post-options.php:319
+msgid "Roles allowed to copy"
+msgstr "Roolit, jotka voivat kopioida artikkeleita"
+
+#: duplicate-post-options.php:264
+msgid "Suffix to be added after the title, e.g. \"(dup)\" (blank for no suffix)"
+msgstr "Loppuliite, joka lisätään otsikon perään, esimerkiksi \"(kopio)\". Jätä tyhjäksi, jos et halua loppuliitettä."
+
+#: duplicate-post-options.php:259
+msgid "Title suffix"
+msgstr "Otsikon loppuliite"
+
+#: duplicate-post-options.php:254
+msgid "Prefix to be added before the title, e.g. \"Copy of\" (blank for no prefix)"
+msgstr "Etuliite, joka lisätään otsikon eteen, esimerkiksi \"Kopio artikkelista\". Jätä tyhjäksi, jos et halua etuliitettä."
+
+#: duplicate-post-options.php:249
+msgid "Title prefix"
+msgstr "Otsikon etuliite"
+
+#: duplicate-post-options.php:309
+msgid "Select the taxonomies you don't want to be copied"
+msgstr "Valitse taksonomiat, joita et halua kopioida"
+
+#: duplicate-post-options.php:290
+msgid "Do not copy these taxonomies"
+msgstr "Älä kopioi näitä taksonomioita"
+
+#: duplicate-post-options.php:284
+msgid "Comma-separated list of meta fields that must not be copied"
+msgstr "Pilkkueroteltulista meta-kentistä, joita ei saa kopioida"
+
+#: duplicate-post-options.php:279
+msgid "Do not copy these fields"
+msgstr "Älä kopioi näitä kenttiä"
+
+#. #-#-#-#-#  tmp-duplicate-post.pot (Duplicate Post 3.2)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: duplicate-post-options.php:46
+msgid "Duplicate Post"
+msgstr "Duplicate Post"
+
+#: duplicate-post-options.php:46 duplicate-post-options.php:79
+msgid "Duplicate Post Options"
+msgstr "Duplicate Post asetukset"
+
+#: duplicate-post-options.php:92
+msgid "Translate"
+msgstr "Käännös"
+
+#: duplicate-post-admin.php:654
+msgid "Donate"
+msgstr "Lahjoita"
+
+#: duplicate-post-admin.php:319
+msgid "Copy creation failed, could not find original:"
+msgstr "Kopiointi epäonnistui, alkuperäistä ei löytynyt:"
+
+#: duplicate-post-admin.php:280
+msgid "No post to duplicate has been supplied!"
+msgstr "Artikkelia kaksoiskappaletta varten ei ole annettu!"
+
+#: duplicate-post-admin.php:237
+msgid "New Draft"
+msgstr "Uusi luonnos"
+
+#: duplicate-post-admin.php:236 duplicate-post-admin.php:253
+#: duplicate-post-common.php:78 duplicate-post-common.php:81
+#: duplicate-post-common.php:116
+msgid "Copy to a new draft"
+msgstr "Kopioi uudeksi luonnokseksi"
+
+#: duplicate-post-admin.php:234 duplicate-post-admin.php:688
+msgid "Clone"
+msgstr "Kopioi"
+
+#: duplicate-post-admin.php:233
+msgid "Clone this item"
+msgstr "Kopioi tämä kohde"

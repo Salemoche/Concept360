@@ -1,0 +1,33 @@
+2018-09-22T14:27:37+00:00 CRITICAL Uncaught Error: Call to undefined function get_meta() in /Applications/MAMP/htdocs/CONCEPT360/wp-content/themes/notio-wp-child/home.php:17
+Stack trace:
+#0 /Applications/MAMP/htdocs/CONCEPT360/wp-includes/template-loader.php(74): include()
+#1 /Applications/MAMP/htdocs/CONCEPT360/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/CONCEPT360/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown
+
+2018-09-22T14:30:22+00:00 CRITICAL Uncaught Error: Call to undefined function get_meta() in /Applications/MAMP/htdocs/CONCEPT360/wp-content/themes/notio-wp-child/home.php:19
+Stack trace:
+#0 /Applications/MAMP/htdocs/CONCEPT360/wp-includes/template-loader.php(74): include()
+#1 /Applications/MAMP/htdocs/CONCEPT360/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/CONCEPT360/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown
+
+2018-09-22T14:30:41+00:00 CRITICAL Uncaught Error: Call to undefined function get_meta() in /Applications/MAMP/htdocs/CONCEPT360/wp-content/themes/notio-wp-child/home.php:19
+Stack trace:
+#0 /Applications/MAMP/htdocs/CONCEPT360/wp-includes/template-loader.php(74): include()
+#1 /Applications/MAMP/htdocs/CONCEPT360/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/CONCEPT360/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown
+
+2018-09-22T14:31:09+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function get_page(), 0 passed in /Applications/MAMP/htdocs/CONCEPT360/wp-content/themes/notio-wp-child/home.php on line 12 and at least 1 expected in /Applications/MAMP/htdocs/CONCEPT360/wp-includes/post.php:4374
+Stack trace:
+#0 /Applications/MAMP/htdocs/CONCEPT360/wp-content/themes/notio-wp-child/home.php(12): get_page()
+#1 /Applications/MAMP/htdocs/CONCEPT360/wp-includes/template-loader.php(74): include('/Applications/M...')
+#2 /Applications/MAMP/htdocs/CONCEPT360/wp-blog-header.php(19): require_once('/Applications/M...')
+#3 /Applications/MAMP/htdocs/CONCEPT360/index.php(17): require('/Applications/M...')
+#4 {main}
+  thrown
+
